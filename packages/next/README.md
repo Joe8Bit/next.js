@@ -510,7 +510,7 @@ For the initial page load, `getInitialProps` will execute on the server only. `g
 
 ### Routing
 
-Next.js does not ship a routes manifest with every possible route in the application, so the current page is not aware of any other pages on the client side. All subsequent routes get lazy-loaded, for scalability sake.
+Next.js does not ship a routes manifest with every possible route in the application, so the current page is not aware of any other pages on the client side. All subsequent routes get lazy-loaded, for scalabilities sake.
 
 #### With `<Link>`
 
